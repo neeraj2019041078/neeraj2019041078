@@ -4,7 +4,37 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Developer;MERN+Stack;LeetCode+Enthusiast" alt="Typing SVG" />
 </p>
+## 👨‍💻 I'm a Software Developer Engineer:
 
+- 🧠 I’m currently working on **MERN Stack**
+- ✍️ Love **LeetCode & Competitive Coding**
+- 🤝 I’m looking for **future collaborations**
+- 💬 Ask me about **DSA**, **Development**, or anything techy
+- 😄 Fun fact: I love **Multitasking**
+
+### 🌐 Connect with me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Codechef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/yourprofile)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourprofile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
+[![GFG](https://img.shields.io/badge/GFG-00A000?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yourprofile)
+
+---
+
+```js
+const Neeraj = {
+  skills: ["Software Developer", "Full Stack Developer", "LeetCode Enthusiast", "Freelancer"],
+  improving: true,
+  programming: {
+    languages: ["JavaScript", "PHP", "C", "C++", "Python", "CSS", "HTML"],
+    frameworks: ["ReactJS", "Bootstrap", "ExpressJS", "NodeJS", "Flask", "Laravel"],
+    databases: ["MySQL", "MongoDB"],
+  },
+  tools: ["VSCode", "Postman", "Heroku", "Firebase", "Netlify", "GitHub Actions"]
+}
 
 ---
 
