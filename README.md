@@ -24,11 +24,11 @@
 
 ```js
 const Neeraj = {
-  skills: ["Software Developer", "Full Stack Developer", "LeetCode Enthusiast", "Freelancer"],
+  skills: ["Software Developer", "Full Stack Developer", "LeetCode Enthusiast", "Mern Stack Developer"],
   improving: true,
   programming: {
-    languages: ["JavaScript", "PHP", "C", "C++", "Python", "CSS", "HTML"],
-    frameworks: ["ReactJS", "Bootstrap", "ExpressJS", "NodeJS", "Flask", "Laravel"],
+    languages: ["JavaScript", "C", "C++", "Python", "CSS", "HTML"],
+    frameworks: ["ReactJS", "Bootstrap", "ExpressJS", "NodeJS", "Flask"],
     databases: ["MySQL", "MongoDB"],
   },
   tools: ["VSCode", "Postman", "Heroku", "Firebase", "Netlify", "GitHub Actions"]
