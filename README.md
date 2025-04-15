@@ -82,12 +82,5 @@ const Neeraj = {
 - **FoodieHub** – Food ordering web app with restaurant and menu management.
 - **Employee Group Call System** – Group calling, messaging, and live collaboration for teams.
 
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://your-portfolio.com)
-
----
 
 > ⚡ *“Talk is cheap. Show me the code.”* – Linus Torvalds
