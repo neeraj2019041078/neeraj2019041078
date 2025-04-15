@@ -81,11 +81,6 @@ const Neeraj = {
 
 ---
 
-## 🔥 Projects
-- **Virtual Deal Room** – Real-time buyer-seller negotiation platform with secure file sharing.
-- **Task Manager App** – JWT-based login, CRUD, logout, and role-based features.
-- **FoodieHub** – Food ordering web app with restaurant and menu management.
-- **Employee Group Call System** – Group calling, messaging, and live collaboration for teams.
 
 
 > ⚡ *“Talk is cheap. Show me the code.”* – Linus Torvalds
