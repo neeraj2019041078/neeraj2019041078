@@ -7,11 +7,15 @@
 
 ## 👨‍💻 I'm a Software Developer Engineer:
 
-- 🧠 I’m currently working on **MERN Stack**
-- ✍️ Love **LeetCode & Competitive Coding**
-- 🤝 I’m looking for **future collaborations**
-- 💬 Ask me about **DSA**, **Development**, or anything techy
-- 😄 Fun fact: I love **Multitasking**
+🧠 I’m currently working on MERN Stack Projects
+
+🚀 Currently learning Next.js to level up my frontend game
+
+🤝 Always open to future collaborations
+
+💬 Ask me about DSA, Web Development, and all things JavaScript
+
+😄 Fun Fact: I genuinely enjoy multitasking — the more plates spinning, the better!
 
 ### 🌐 Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neeraj708055@gmail.com)
