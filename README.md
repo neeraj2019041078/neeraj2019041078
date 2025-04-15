@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Developer;MERN+Stack;LeetCode+Enthusiast" alt="Typing SVG" />
 </p>
+
 ## 👨‍💻 I'm a Software Developer Engineer:
 
 - 🧠 I’m currently working on **MERN Stack**
@@ -35,6 +36,7 @@ const Neeraj = {
   },
   tools: ["VSCode", "Postman", "Heroku", "Firebase", "Netlify", "GitHub Actions"]
 }
+```
 
 ---
 
@@ -85,8 +87,6 @@ const Neeraj = {
 
 ---
 
-## 📫 Contact Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://your-portfolio.com)
@@ -94,4 +94,3 @@ const Neeraj = {
 ---
 
 > ⚡ *“Talk is cheap. Show me the code.”* – Linus Torvalds
-
