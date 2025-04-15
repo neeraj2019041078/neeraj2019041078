@@ -7,15 +7,15 @@
 
 ## 👨‍💻 I'm a Software Developer Engineer:
 
-🧠 I’m currently working on MERN Stack Projects
+- 🔭 I’m currently working on **Mern Stack Project**
 
-🚀 Currently learning Next.js to level up my frontend game
+- 🌱 I’m currently learning **Next.js**
 
-🤝 Always open to future collaborations
+- 💬 Ask me about **Development and DSA**
 
-💬 Ask me about DSA, Web Development, and all things JavaScript
+- 📫 How to reach me **neeraj708055@gmail.com**
 
-😄 Fun Fact: I genuinely enjoy multitasking — the more plates spinning, the better!
+- ⚡ Fun fact **Loves MultiTasking**
 
 
 ### 🌐 Connect with me:
