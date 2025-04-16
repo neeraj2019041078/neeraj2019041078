@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **Mern Stack Project**
 
-- 🌱 I’m currently learning **Next.js**
-
 - 💬 Ask me about **Development and DSA**
 
 - 📫 How to reach me **neeraj708055@gmail.com**
