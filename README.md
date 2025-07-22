@@ -20,7 +20,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=neeraj708055@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj2000/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=About.me&logoColor=white)](https://neerajverma1.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=About.me&logoColor=white)](https://neerajportfol.netlify.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/neerajv_21/)
 [![GFG](https://img.shields.io/badge/GFG-00A000?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/neerajrock54321/)
 [![Code Ninjas](https://img.shields.io/badge/Code_Ninjas-1F1F1F?style=for-the-badge&logo=nintendo&logoColor=white)](https://www.naukri.com/code360/profile/neerajv_21)
